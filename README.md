@@ -20,6 +20,7 @@ Then click reloard project
 
 
 Go "org.example" package and find "Main.java" file.
+
 ![image](https://user-images.githubusercontent.com/86911717/206693284-5c78952f-fbb8-4d69-a070-e2dca36233e6.png)
 
 
